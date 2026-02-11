@@ -5,14 +5,4 @@ this is the second line of code
 
 this is the code which avilable in the 2nd branch
 
-<<<<<<< HEAD
 this code is written by roshan 
-=======
-this code is written by roshan 
-
-
-new feature
-
-nre feature 
-new feature
->>>>>>> 0c586d88235ed420e1bfadd4baa0c002bd26cef2
